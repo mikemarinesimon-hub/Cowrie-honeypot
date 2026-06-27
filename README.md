@@ -1,5 +1,3 @@
-# Cowrie-honeypot
-Search and study of attacks carried out against a cowrie honeypot set up on a VPS for 15 days.
 # Cowrie SSH/Telnet Honeypot — Threat Intelligence Project
 
 A medium-interaction SSH/Telnet honeypot deployed on an internet-facing Debian VPS to capture, analyse and document real-world attack traffic. Over a 15-day collection window the sensor recorded **335,553 events** from **879 unique source IPs** and captured **21 distinct malware samples** across three threat families.
