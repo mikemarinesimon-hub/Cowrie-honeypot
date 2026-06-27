@@ -98,3 +98,16 @@ Every attack observed was a commodity campaign exploiting weak or default creden
 ## Disclaimer
 
 This project was conducted for educational and research purposes in a controlled, isolated environment. All captured data is anonymised. Malware samples are referenced by hash only and are not distributed.
+### Visualisations
+
+**Top attacking IPs**
+![Top IPs](docs/charts/top_ips.png)
+
+**Top credentials tried**
+![Top credentials](docs/charts/top_credentials.png)
+
+**Top commands executed**
+![Top commands](docs/charts/top_commands.png)
+
+**Malware distribution by family**
+![Malware families](docs/charts/malware_families.png)
